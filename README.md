@@ -42,6 +42,7 @@ Note: Command may vary depending on how you set it up — feel free to tweak.
 ---
 
 ## 📂 Project Layout
+
 speechenhancement/
 ├── admins/          # Admin-related code (if running on Django)
 ├── media/           # Uploaded files or audio
